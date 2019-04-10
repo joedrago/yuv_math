@@ -1,0 +1,12 @@
+
+sRGB 8Bit
+---------
+Error Rate               : 12636295 / 16777216 (75.32%)
+Max single channel delta : 1
+Max delta sum (all chans): 3
+
+sRGB 10Bit
+----------
+Error Rate               : 810390650 / 1073741824 (75.47%)
+Max single channel delta : 1
+Max delta sum (all chans): 3
